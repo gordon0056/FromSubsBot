@@ -18,7 +18,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/fromsubsbot.git
+    git clone https://github.com/gordon0056/fromsubsbot.git
     cd fromsubsbot
 
 2. Install dependencies:
